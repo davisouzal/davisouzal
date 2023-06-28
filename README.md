@@ -1,5 +1,7 @@
 # 💫 About Me:
-- Atualmente estagiando na Secretaria Estadual de Educação de Alagoas (SEDUC - AL)<br>- Aprendendo ReactJS e Flutter<br>- Tenho alergia a muitas coisas e adoro tocar violão<br>
+- Atualmente estagiando na Secretaria Estadual de Educação de Alagoas (SEDUC - AL)
+- Aprendendo ReactJS e Flutter<br>
+- Tenho alergia a muitas coisas e adoro tocar violão
 
 
 ## 🌐 Socials:
