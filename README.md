@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Currently working at Secretaria Estadual de Educação de Alagoas (SEDUC - AL)
-- Learning ReactJS and Flutter
+- Re-learning Ionic and Angular
 - I'm allergic to many things and I love playing guitar
 
 
